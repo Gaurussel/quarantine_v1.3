@@ -1,0 +1,9 @@
+ITEM.name = "Образец крови"
+ITEM.model = Model("models/labware/tube2.mdl")
+ITEM.width = 1
+ITEM.height = 1
+ITEM.description = "Маленький, невероятно хрупкий пузырек с человеческой кровью с наклейкой на крышке. Должно быть, он был плотно закрыт."
+ITEM.category = "Laboratory"
+ITEM.price = 0
+ITEM.noBusiness = true
+ITEM.petri = true

@@ -1,0 +1,10 @@
+ITEM.name = "KIBA Оружейный кейс для боеприпасов"
+ITEM.description = "Ящик для хранения различных боеприпасов."
+ITEM.model = Model("models/illusion/eftcontainers/ammocase.mdl")
+ITEM.width = 2
+ITEM.height = 2
+ITEM.weight = 2
+ITEM.invWidth = 3
+ITEM.invHeight = 3
+ITEM.canEquip = false
+ITEM.bDropOnDeath = true

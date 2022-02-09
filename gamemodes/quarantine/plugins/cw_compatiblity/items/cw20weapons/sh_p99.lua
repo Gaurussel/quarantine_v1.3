@@ -1,0 +1,19 @@
+ITEM.name = "P99"
+ITEM.description = "Немецкий пистолет, разрабатывался оружейной компанией «Carl Walther Sportwaffen GmbH», с начала 1990-х годов. Проект под названием «Hammerless Pistol» - HLP возглавлял Хорст Весп."
+ITEM.category = "Weapons"
+ITEM.model = "models/weapons/w_pist_usp.mdl"
+ITEM.class = "cw_p99"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.weight = 0.7
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "secondary"
+ITEM.invWidth = 1
+ITEM.invHeight = 1
+ITEM.model = "models/weapons/w_pist_usp.mdl"
+ITEM.iconCam = {
+	pos = Vector(-2, 20, 3),
+	ang = Angle(0, 270, 0),
+	fov = 45
+}

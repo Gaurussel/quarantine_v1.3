@@ -1,0 +1,10 @@
+ITEM.name = "Семена кукурузы"
+ITEM.model = Model("models/custom_models/sterling/ahshop_package_seeds_01.mdl")
+ITEM.IsSeed = true
+ITEM.plantModel = Model("models/oldbill/ahplantcorn.mdl")
+ITEM.plant = "corn"
+ITEM.plantpos = 1
+ITEM.sizeP = 15
+ITEM.farmcrop = 1
+ITEM.growtime = 60
+ITEM.weight = 0.3

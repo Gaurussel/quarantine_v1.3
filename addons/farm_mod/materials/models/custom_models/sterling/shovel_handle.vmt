@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom_models/sterling/shovel_handle"
+                "$bumpmap"   "models/custom_models/sterling/shovel_handle_bmp"
+    $envmap "env_cubemap"
+    $envmaptint "[0.0039 0.0039 0.0039]"
+    $envmapsaturation 0.98
+
+    $phong 1
+    $phongfresnelranges "[4 0.9 5]"
+    $phongexponent 6
+    $phongboost 0.06
+
+	$model 1
+	$rimlight 1
+	$rimlightexponent 1
+	$rimlightboost 0.05
+	"$detail"					"models/sterling/boombox_noise"
+	"$detailscale"				"5"
+	"$detailblendfactor"		"0.65"
+	"$detailblendmode"			"0"
+	// "$rimlight" "1"
+	// "$rimlightexponent" "5"
+	// "$rimlightboost" "0.01"
+	
+}

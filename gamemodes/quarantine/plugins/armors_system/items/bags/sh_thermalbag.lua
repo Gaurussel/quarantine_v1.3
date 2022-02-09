@@ -1,0 +1,10 @@
+ITEM.name = "Термосумка"
+ITEM.description = "Специальная термоэлектрическая сумка для хранения продуктов, удерживающая вещи при невероятно низких температурах, что делает ее идеальной для дальних поездок за пределы города."
+ITEM.model = Model("models/illusion/eftcontainers/thermobag.mdl")
+ITEM.width = 3
+ITEM.height = 3
+ITEM.weight = 2.5
+ITEM.invWidth = 3
+ITEM.invHeight = 4
+ITEM.canEquip = false
+ITEM.bDropOnDeath = true

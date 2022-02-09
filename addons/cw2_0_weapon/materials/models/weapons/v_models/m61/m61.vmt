@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+"$baseTexture" "models\weapons\v_models\m61\m61"
+"$bumpmap" "models\weapons\v_models\m61\m61_ref"
+"$halflambert" 	"1"
+"$phong" "1"
+"$phongexponent" "45"
+"$phongboost" "1"
+"$phongfresnelranges"	"[1 6 12]"
+"$phongalbedotint" "1"
+}

@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"        "cw2\smgs\mp5\Fullstock"
+	"$bumpmap" 	"cw2\smgs\mp5\Fullstock_Normal"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"0.4"
+	"$phongfresnelranges"	"[.2 4 1]"
+}

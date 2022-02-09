@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\Casper's AK74\B1Rail_D"
+	"$bumpmap" "models\weapons\v_models\Casper's AK74\B1Rail_N"
+
+	"$phongexponenttexture" 	"models\weapons\v_models\Casper's AK74\B1Rail_G"
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost"	"0.6"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.05 0.05 0.05]"
+}

@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom_models/sterling/plant_sack"
+                "$bumpmap"   "models/custom_models/sterling/plant_sack_bmp"
+    $envmap "env_cubemap"
+    $envmaptint "[0.0039 0.0039 0.0039]"
+    $envmapsaturation 0.98
+
+    $phong 1
+    $phongfresnelranges "[4 0.9 5]"
+    $phongexponent 6
+    $phongboost 0.06
+
+
+	
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"cw2/reticles/reticle_chevron_clean"
+	"$translucent" 	"1"
+	"$model" 	"1"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\hands\sleeve_diff"
+	"$bumpmap" "models\weapons\v_models\hands\sleeve_norm"
+	"$normalmapalphaenvmapmask" "1"
+}

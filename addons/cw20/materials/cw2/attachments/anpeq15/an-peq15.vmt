@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "cw2/attachments/anpeq15/an-peq15"
+	"$bumpmap" "cw2/attachments/anpeq15/an-peq15_normalmap"
+	"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	"0.3"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.01 0.01 0.01]"
+}

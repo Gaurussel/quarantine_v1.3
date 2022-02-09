@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+	$basetexture "cw2\smgs\mp5\mp5k"
+	$bumpmap "cw2\smgs\mp5\mp5k_normal"
+	$phong 1
+	$phongboost 1
+	$phongexponent 10
+	$phongfresnelranges "[1 1 1]"
+}

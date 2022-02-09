@@ -1,0 +1,10 @@
+ITEM.name = "Семена капусты"
+ITEM.model = Model("models/custom_models/sterling/ahshop_package_seeds_03.mdl")
+ITEM.IsSeed = true
+ITEM.plantModel = Model("models/custom_models/sterling/ahshop_cabbage.mdl")
+ITEM.plant = "carbage"
+ITEM.plantpos = 1.6
+ITEM.sizeP = 15
+ITEM.farmcrop = 3
+ITEM.growtime = 115
+ITEM.weight = 0.3

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bunneh\AKRail\newscope"
+	"$bumpmap" "models\bunneh\AKRail\newscope_n"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" "4"
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.03 0.03 0.03]"
+}
+

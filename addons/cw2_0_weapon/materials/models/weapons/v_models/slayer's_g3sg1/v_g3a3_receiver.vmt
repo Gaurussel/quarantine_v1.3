@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$baseTexture" 	"models\weapons\v_models\SlaYeR's_G3SG1\v_G3A3_Receiver"
+	"$bumpmap"	"models\weapons\v_models\SlaYeR's_G3SG1\v_G3A3_Norm" 
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.05 .05 .05]"
+	"$basemapalphaphongmask" 	"1"
+	"$phong" 			"1"
+	"$phongtint" 			"[0.7 0.9 1]"
+	"$phongexponent" 		"50"
+	"$phongboost" 			"1"
+	"$phongfresnelranges"		"[0.5 1.5 3.0]"//"[0.1 0.4 .8]"
+	"$halflambert"			"1"
+}

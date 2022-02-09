@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cw2/gui/scope_template"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

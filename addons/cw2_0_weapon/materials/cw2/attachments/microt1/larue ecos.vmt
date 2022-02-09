@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "cw2\attachments\microt1\LaRue ECOS"
+	"$bumpmap" "cw2\attachments\microt1\LaRue ECOS_n"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.01 0.01 0.01]"
+}

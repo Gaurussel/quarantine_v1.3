@@ -1,0 +1,10 @@
+ITEM.name = "Медицинский кейс"
+ITEM.description = "Футляр для хранения различных медицинских предметов, облегчающий транспортировку. На его поверхности есть блестящая ЭММ наклейка"
+ITEM.model = Model("models/illusion/eftcontainers/medscase.mdl")
+ITEM.width = 3
+ITEM.height = 3
+ITEM.weight = 2.8
+ITEM.invWidth = 4
+ITEM.invHeight = 4
+ITEM.canEquip = false
+ITEM.bDropOnDeath = true

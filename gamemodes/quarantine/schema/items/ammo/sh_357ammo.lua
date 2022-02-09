@@ -1,0 +1,9 @@
+ITEM.name = "Патроны магнум"
+ITEM.model = "models/items/357ammo.mdl"
+ITEM.ammo = "357"
+ITEM.ammoAmount = 12
+ITEM.description = "Коробка, содержащая %s патронов магнум."
+ITEM.category = "Боеприпасы"
+ITEM.price = 15
+ITEM.bDropOnDeath = true
+ITEM.weight = 0.2

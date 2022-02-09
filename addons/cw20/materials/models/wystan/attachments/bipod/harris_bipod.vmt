@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\wystan\attachments\bipod\Harris_Bipod"
+	"$phong" 			"1"
+	"$phongexponent" 		"60"
+	"$phongboost" 			"0.1"	
+	"$phongfresnelranges"		"[0.5 0.5 1]"
+	"$halflambert"			"1"
+}

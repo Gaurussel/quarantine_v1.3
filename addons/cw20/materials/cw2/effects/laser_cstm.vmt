@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"cw2/effects/laser_cstm_new"
+	"$additive" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

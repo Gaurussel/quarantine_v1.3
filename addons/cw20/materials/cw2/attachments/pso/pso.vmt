@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "cw2\attachments\pso\pso_d"
+	"$bumpmap" "cw2\attachments\pso\pso_n"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.01 0.01 0.01]"
+}

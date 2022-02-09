@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/animals/BearNew_cave"
+	"$model"       "1"
+	"$halflambert" "1"
+	"$surfaceprop"  "flesh"
+}

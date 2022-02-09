@@ -1,0 +1,10 @@
+ITEM.name = "BIOHAZARD кейс"
+ITEM.description = "Ящик бля безопасной транспортировки лабораторных материалов."
+ITEM.model = Model("models/kali/weapons/nt/smac.mdl")
+ITEM.width = 2
+ITEM.height = 2
+ITEM.weight = 2.3
+ITEM.invWidth = 3
+ITEM.invHeight = 3
+ITEM.canEquip = false
+ITEM.bDropOnDeath = true

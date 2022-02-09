@@ -1,0 +1,12 @@
+Vertexlitgeneric
+{
+	"$baseTexture" "cw2\attachments\lowerpistolrail\PBS_diff"
+	"$bumpmap" "cw2\attachments\lowerpistolrail\PBS_N"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.05 0.05 0.05]"
+}

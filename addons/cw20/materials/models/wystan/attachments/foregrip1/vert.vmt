@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\wystan\attachments\Foregrip1\vert"
+	"$bumpmap" 			"models\wystan\attachments\Foregrip1\vert_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+}

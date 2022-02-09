@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/animals/BearNew"
+	"$translucent" 1
+	"$halflambert" 1
+}

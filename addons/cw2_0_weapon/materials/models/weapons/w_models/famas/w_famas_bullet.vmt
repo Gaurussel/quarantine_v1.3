@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/weapons/v_models/famas/v_famas_bullet"
+	"$bumpmap" 	"models/weapons/v_models/famas/v_famas_bullet_normal"
+
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$phong" 		"1"
+	"$phongexponent" 	"50"
+	"$phongboost"		"1"
+	"$phongtint"		"[1 1 0.2]"
+	"$phongfresnelranges"	"[1 4 5]"
+
+}
+

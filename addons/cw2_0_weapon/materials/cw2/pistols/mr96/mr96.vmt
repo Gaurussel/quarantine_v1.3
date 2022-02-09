@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "cw2/pistols/mr96/mr96"
+	"$bumpmap" "cw2/pistols/mr96/mr96_normal"
+	"$envmap" "env_cubemap"
+	"$basemapalphaenvmapmask" 1
+	"$envmaptint" "[.05 .05 .05]"
+	"$phong" 1
+	"$phongboost" 2
+	"$phongexponenttexture" "cw2/pistols/mr96/mr96_exponent"
+	"$phongfresnelranges" "[.5 1 0]"
+}

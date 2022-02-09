@@ -1,0 +1,10 @@
+ITEM.name = "Семена моркови"
+ITEM.model = Model("models/custom_models/sterling/ahshop_package_seeds_04.mdl")
+ITEM.IsSeed = true
+ITEM.plantModel = Model("models/custom_models/sterling/ahshop_single_carrot.mdl")
+ITEM.plant = "carrot"
+ITEM.plantpos = 1.7
+ITEM.sizeP = 13
+ITEM.farmcrop = 4
+ITEM.growtime = 69
+ITEM.weight = 0.3

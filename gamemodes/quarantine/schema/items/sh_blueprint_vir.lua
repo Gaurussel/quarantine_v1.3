@@ -1,0 +1,10 @@
+ITEM.name = "Рецепт хералотоциклина"
+ITEM.description = "Рецепт лекарства, снижающего действие вируса на организм человека."
+ITEM.model = "models/props/unicupon.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.noBusiness = false
+ITEM.price = 200
+ITEM.quality = "Легендарное"
+ITEM.category = "Медикаменты"
+ITEM.bDropOnDeath = true

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "cw2\attachments\lens\glass"
+	"$translucent" 1
+	"$nodraw" 1
+}

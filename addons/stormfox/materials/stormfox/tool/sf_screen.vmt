@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "stormfox/tool/sf_screen_bg"
+	"$selfillum" 1 
+	"$model" 1
+}

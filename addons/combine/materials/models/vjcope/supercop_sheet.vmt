@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vjcope/supercop_sheet"
+	"$selfillum" 1
+}

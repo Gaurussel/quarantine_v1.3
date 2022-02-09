@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/weapons/v_models/famas/v_famas_parts"
+	"$bumpmap" 	"models/weapons/v_models/famas/v_famas_parts_normal"
+	"$envmap" 	"env_cubemap"
+
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$envmaptint"		"[0.04 0.04 0.04]"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost"		"1"
+	"$phongtint"		"[0.8 0.9 1]"
+	"$phongfresnelranges"	"[1 4 5]"
+	"$phongalbedotint" 	"1"
+	"$halflambert" 		"1"
+}
+
+//Soldier11 created these shaders. You may not re-use them without his permission!

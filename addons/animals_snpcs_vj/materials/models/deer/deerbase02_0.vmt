@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/deer/DeerBase02_0"
+	"$translucent" 1
+	"$halflambert" 1
+}

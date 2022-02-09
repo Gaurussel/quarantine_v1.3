@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom_models/sterling/crate_base"
+                "$bumpmap"   "models/custom_models/sterling/crate_base_bmp"
+	"$surfaceprop" "ArmorFlesh"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "5"
+	"$phongtint" "[ .2 .2 .5 ]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[ .2 .2 .5 ]"
+
+}

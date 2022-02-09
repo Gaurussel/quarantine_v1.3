@@ -1,0 +1,9 @@
+ITEM.name = "Патроны для пистолетов-пулемётов"
+ITEM.model = "models/Items/BoxSRounds.mdl"
+ITEM.ammo = "smg1" 
+ITEM.ammoAmount = 30
+ITEM.description = "Коробка, содержащая %s патроны для пистолетов-пулемётов."
+ITEM.category = "Боеприпасы"
+ITEM.price = 10
+ITEM.bDropOnDeath = true
+ITEM.weight = 0.2

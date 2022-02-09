@@ -1,0 +1,19 @@
+ITEM.name = "FN Five-Seven"
+ITEM.description = "Самозарядный пистолет, разработанный и производимый бельгийской фирмой Fabrique Nationale of Herstal. Название представляет собой комбинацию, с одной стороны Five-seveN это «5-7», а с другой первая и последняя буква названия, пишущиеся заглавными - это аббревиатура фирмы Fabrique Nationale."
+ITEM.category = "Weapons"
+ITEM.model = "models/weapons/w_pist_usp.mdl"
+ITEM.class = "cw_fiveseven"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.weight = 0.7
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "secondary"
+ITEM.invWidth = 1
+ITEM.invHeight = 1
+ITEM.model = "models/weapons/w_pist_fiveseven.mdl"
+ITEM.iconCam = {
+	pos = Vector(-2, 20, 3),
+	ang = Angle(0, 270, 0),
+	fov = 45
+}

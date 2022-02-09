@@ -1,0 +1,10 @@
+ITEM.name = "Семена пшеницы"
+ITEM.model = Model("models/custom_models/sterling/ahshop_package_seeds_05.mdl")
+ITEM.IsSeed = true
+ITEM.plantModel = Model("models/custom_models/sterling/ahshop_single_wheat.mdl")
+ITEM.plant = "wheat"
+ITEM.plantpos = 2
+ITEM.sizeP = 7
+ITEM.farmcrop = 5
+ITEM.growtime = 30
+ITEM.weight = 0.3

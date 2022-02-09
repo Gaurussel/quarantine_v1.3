@@ -1,0 +1,19 @@
+ITEM.name = "MR96"
+ITEM.description = "Револьвер, созданный бразильской компанией по производству огнестрельного оружия. Это оружие позиционируется как охотничье, благодаря своему калибру. Может лего завалить кабана или даже слона."
+ITEM.category = "Weapons"
+ITEM.model = "models/weapons/w_pist_deagle.mdl"
+ITEM.class = "cw_mr96"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.weight = 0.8
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "secondary"
+ITEM.invWidth = 1
+ITEM.invHeight = 1
+ITEM.model = "models/weapons/w_pist_usp.mdl"
+ITEM.iconCam = {
+	pos = Vector(-2, 20, 3),
+	ang = Angle(0, 270, 0),
+	fov = 45
+}

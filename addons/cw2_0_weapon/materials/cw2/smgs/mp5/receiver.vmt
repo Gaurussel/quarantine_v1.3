@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+                "$nocull"                 "1"
+	"$basetexture"        "cw2\smgs\mp5\Receiver"
+	"$bumpmap" 	"cw2\smgs\mp5\Receiver_Normal"
+                "$phong" "1"
+                "$phongexponent" "31"
+                "$phongboost"	"0.6"
+                "$phongfresnelranges"	"[.3 7 1]"
+}

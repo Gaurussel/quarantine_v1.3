@@ -1,0 +1,9 @@
+ITEM.name = "Дробь"
+ITEM.model = "models/Items/BoxBuckshot.mdl"
+ITEM.ammo = "buckshot" 
+ITEM.ammoAmount = 8 
+ITEM.description = "Коробка, содержащая %s патроны с дробью."
+ITEM.category = "Боеприпасы"
+ITEM.price = 10
+ITEM.bDropOnDeath = true
+ITEM.weight = 0.3

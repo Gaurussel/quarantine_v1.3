@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "cw2\attachments\schmidt\diffuse"
+	"$bumpmap" "cw2\attachments\schmidt\Normals"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "16"
+	"$envmaptint" "[0.03 0.03 0.03]"
+	"$phongboost"	"0.3"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.03 0.03 0.03]"
+}

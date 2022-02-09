@@ -1,0 +1,10 @@
+ITEM.name = "Футляр для мелких Предметов"
+ITEM.description = "Небольшой мягкий футляр для хранения различных мелких предметов, таких как карточки-ключи, бумажные деньги и монеты, а также металлические ключи."
+ITEM.model = Model("models/illusion/eftcontainers/sicccase.mdl")
+ITEM.width = 2
+ITEM.height = 1
+ITEM.weight = 0.6
+ITEM.invWidth = 3
+ITEM.invHeight = 2
+ITEM.canEquip = false
+ITEM.bDropOnDeath = true

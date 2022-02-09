@@ -1,0 +1,8 @@
+
+"quarantine"
+{
+	"base" 			"helix"
+	"title" 		"Quarantine"
+	"author" 		"Gaurussel"
+	"menusystem"	"1"
+}

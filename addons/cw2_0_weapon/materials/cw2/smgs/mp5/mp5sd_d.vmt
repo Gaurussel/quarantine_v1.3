@@ -1,0 +1,17 @@
+
+"Vertexlitgeneric"
+{
+	"$basetexture"  "cw2\smgs\mp5\MP5SD_D"
+	"$bumpmap"     "cw2\smgs\mp5\MP5SD_N"
+	"$normalmapalphaphongmask"    "1"
+	"$nocull" "1"
+
+	"$phong"     "1"
+	"$phongboost"   "1"
+	"$phongfresnelranges"      "[1 1 1]"
+	"$phongtint"                   "[0.1 0.1 0.1]" 
+	"$phongexponenttexture" 	"cw2\smgs\mp5\MP5SD_G"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"30"
+	"$halflambert" 		"1"
+}

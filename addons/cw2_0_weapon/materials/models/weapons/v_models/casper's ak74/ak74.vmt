@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\Casper's AK74\AK74_D"
+	"$bumpmap" "models\weapons\v_models\Casper's AK74\AK74_N"
+	"$nocull" "1"
+
+	"$phong"     "1"
+	"$phongboost"   "0.3"
+	"$phongexponent"   "100"
+	"$phongfresnelranges"      "[1 3 6]"
+//	"$phongtint"                   "[1 1 1]" 
+	"$phongexponenttexture" 	"models\weapons\v_models\Casper's AK74\AK74_G"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"14"
+	"$halflambert" 		"1"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"50"	
+	"$rimlightboost"	"0.2"
+	"$rimmask" 	"1"
+}

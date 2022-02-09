@@ -1,0 +1,10 @@
+ITEM.name = "Семена помидоров"
+ITEM.model = Model("models/custom_models/sterling/ahshop_package_seeds_02.mdl")
+ITEM.IsSeed = true
+ITEM.plantModel = Model("models/oldbill/tomatoplant.mdl")
+ITEM.plant = "tomato"
+ITEM.plantpos = 1
+ITEM.sizeP = 15
+ITEM.farmcrop = 2
+ITEM.growtime = 90
+ITEM.weight = 0.3

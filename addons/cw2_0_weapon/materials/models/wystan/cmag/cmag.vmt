@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\wystan\Cmag\cmag"
+    "$envmap" "env_cubemap"
+    "$envmapmask" "models\wystan\Cmag\cmag_ref"
+}  

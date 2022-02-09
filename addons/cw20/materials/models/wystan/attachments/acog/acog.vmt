@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\wystan\attachments\acog\acog"
+	"$bumpmap" "models\wystan\attachments\acog\acog_norm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.005 0.005 0.005]"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" "0.5"
+	"$phongfresnelranges" "[1 3 6]"
+}

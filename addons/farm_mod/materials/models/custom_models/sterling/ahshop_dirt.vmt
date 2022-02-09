@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom_models/sterling/ahshop_dirt"
+"$bumpmap"   "models/custom_models/sterling/ahshop_dirt_bmp"
+	
+}

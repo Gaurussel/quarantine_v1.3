@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "cw2/effects/scope_shadowmask"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

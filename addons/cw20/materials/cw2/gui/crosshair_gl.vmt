@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cw2/gui/crosshair_gl"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$nolod" "1"
+}

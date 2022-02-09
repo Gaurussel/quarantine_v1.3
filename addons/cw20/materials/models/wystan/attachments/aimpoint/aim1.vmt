@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\wystan\attachments\aimpoint\aim1"
+	"$bumpmap" "models\wystan\attachments\attachnormals"
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" "0.05"
+	"$phongfresnelranges" "[1 3 6]"
+}

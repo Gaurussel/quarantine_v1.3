@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" cw2\attachments\cobra_m2\diffuse"
+	"$bumpmap" "cw2\attachments\cobra_m2\normal"
+	"$envmap" "env_cubemap"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.1 0.1 0.1]"
+}

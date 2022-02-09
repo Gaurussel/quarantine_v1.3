@@ -1,0 +1,8 @@
+"vertexlitgeneric" {
+    "$basetexture"  "models\piratecat_animals\piratecat_toothtiger\toothtiger_skin"
+	"$bumpmap" "models\piratecat_animals\piratecat_toothtiger\toothtiger_skin_bump"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+	"$alphatest" "1"
+}

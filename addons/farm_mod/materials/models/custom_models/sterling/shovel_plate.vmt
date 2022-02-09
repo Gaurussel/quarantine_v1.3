@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom_models/sterling/shovel_plate"
+                "$bumpmap"   "models/custom_models/sterling/shovel_plate_bmp"
+	$surfaceprop Metal_Box
+
+	$alphatest 1
+	$alphatestreference 0.4
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[10 0.9 5]"
+	$phongexponent 50
+	$phongboost 0.05
+
+	$nodecal 1
+
+	$model 1
+}

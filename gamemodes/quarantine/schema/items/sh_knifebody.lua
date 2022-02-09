@@ -1,0 +1,9 @@
+ITEM.name = "Нож для разделки"
+ITEM.model = Model("models/weapons/w_knife_t.mdl")
+ITEM.description = "Охотничий нож для разделки трупов."
+ITEM.category = "Hunter"
+ITEM.quality = "Обычное"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.3
+ITEM.bDropOnDeath = true

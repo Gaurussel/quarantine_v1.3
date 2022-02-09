@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "cw2/pistols/mr96/speedloader"
+	"$bumpmap" "cw2/pistols/mr96/speedloader_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.8 .8 .8]"
+	"$phong" 1
+	"$phongboost" 6
+	"$phongexponent" 5
+	"$phongfresnelranges" "[.5 1 0]"
+}

@@ -1,0 +1,19 @@
+ITEM.name = "M1911"
+ITEM.description = "Самозарядный пистолет под патрон .45 ACP. Разработан Джоном Мозесом Браунингом в 1908 году. Пистолет находился на вооружении лиц офицерского и сержантского состава всех видов вооружённых сил, родов войск и служб ВС США с 1911 по 1985 год, разрешён к использованию военными и полицейскими служащими в качестве личного оружия и в настоящее время."
+ITEM.category = "Weapons"
+ITEM.model = "models/weapons/cw_pist_m1911.mdl"
+ITEM.class = "cw_m1911"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.weight = 1
+ITEM.isWeapon = true
+ITEM.isGrenade = false
+ITEM.weaponCategory = "secondary"
+ITEM.invWidth = 1
+ITEM.invHeight = 1
+ITEM.model = "models/weapons/w_pist_usp.mdl"
+ITEM.iconCam = {
+	pos = Vector(-2, 20, 3),
+	ang = Angle(0, 270, 0),
+	fov = 45
+}

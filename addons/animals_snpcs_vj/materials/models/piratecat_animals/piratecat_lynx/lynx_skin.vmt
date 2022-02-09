@@ -1,0 +1,8 @@
+"vertexlitgeneric" {
+    "$basetexture"  "models\piratecat_animals\piratecat_lynx\lynx_skin"
+	"$bumpmap" "models\piratecat_animals\piratecat_lynx\lynx_skin_bump"
+	"$alphatest" "1"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+}
