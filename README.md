@@ -13,6 +13,8 @@
 3. [MAC's Simple NPCs](https://www.gmodstore.com/market/view/mac-s-simple-npcs)
 4. [Контент из мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=2449682937)
 
+:bangbang: Но даже после установки всего этого я не уверен, что она будет работать, всё таки это моя первая самостоятельно сделанная схема и работала она на соплях, как бы не хотелось этого признавать :bangbang:
+
 # Скриншоты и видео
 Расширяемый инвентарь через одежду
 ![Расширяемый инвентарь через одежду](https://i.imgur.com/XiVd2l7.png)
@@ -29,3 +31,6 @@
 Переделанный дизайн
 ![Переделанный дизайн](https://i.imgur.com/GuDl5PU.png)
 ![Переделанный дизайн](https://i.imgur.com/XRVsOXr.png)
+
+Колесо взаимодействия (открывается на клавишу O английскую)
+![OOOO](https://i.imgur.com/u2vKLbo.png)
