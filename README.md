@@ -34,3 +34,6 @@
 
 Колесо взаимодействия (открывается на клавишу O английскую)
 ![OOOO](https://i.imgur.com/u2vKLbo.png)
+
+Худ
+![hud](https://i.imgur.com/P6a2gWz.png)
